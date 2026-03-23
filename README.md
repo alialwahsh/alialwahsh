@@ -4,14 +4,14 @@ CS student at the University of Windsor (graduating Apr 2027). I build mobile an
 
 ## Projects
 
-- **SalahSync** — Islamic prayer times app, live on the App Store
-- **Chickly** — Another App Store app built with Swift and SwiftUI
-- **Anitabulate** — Web app built with React and TypeScript
+- **SalahSync** — iOS prayer times app with Screen Time API integration, live on the [App Store](https://apps.apple.com/ca/app/salahsync)
+- **Chickly** — Cross-platform outfit sharing app built with React Native and Supabase, live on the [App Store](https://apps.apple.com/ca/app/chickly)
+- **Anitabulate** — Anime tracker web app built with React and TypeScript, live at [anitabulate.vercel.app](https://anitabulate.vercel.app)
 
 ## Tech
 
-Java, JavaScript, TypeScript, Python, Swift, React Native, React, SwiftUI, Supabase, SQL
+Java, JavaScript, TypeScript, Python, Swift, React, React Native, SwiftUI, Supabase, SQL
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/alialwahsh) · [Email](mailto:alwah117@uwindsor.ca)
+[LinkedIn](https://linkedin.com/in/ali-alwahsh) · [Email](mailto:aliahr2017@gmail.com)
