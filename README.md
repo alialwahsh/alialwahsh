@@ -14,4 +14,4 @@ Java, JavaScript, TypeScript, Python, Swift, React, React Native, SwiftUI, Supab
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/ali-al-wahsh-756a63397) · [Email](mailto:aliahr2017@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ali-al-wahsh-756a63397/) · [Email](mailto:aliahr2017@gmail.com)
