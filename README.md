@@ -4,8 +4,8 @@ CS student at the University of Windsor (graduating Apr 2027). I build mobile an
 
 ## Projects
 
-- **SalahSync** — iOS prayer times app with Screen Time API integration, live on the [App Store](https://apps.apple.com/ca/app/salahsync)
-- **Chickly** — Cross-platform outfit sharing app built with React Native and Supabase, live on the [App Store](https://apps.apple.com/ca/app/chickly)
+- **SalahSync** — iOS prayer times app with Screen Time API integration, live on the [App Store]([https://apps.apple.com/ca/app/salahsync](https://apps.apple.com/us/app/salahsync/id6758184148))
+- **Chickly** — Cross-platform outfit sharing app built with React Native and Supabase, live on the [App Store]([https://apps.apple.com/ca/app/chickly](https://apps.apple.com/us/app/chickly/id6757763712))
 - **Anitabulate** — Anime tracker web app built with React and TypeScript, live at [anitabulate.vercel.app](https://anitabulate.vercel.app)
 
 ## Tech
