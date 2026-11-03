@@ -1,6 +1,6 @@
 # Hi, I'm Ali
 
-CS student at the University of Windsor (graduating Apr 2027). I build mobile and web apps.
+I build mobile and web apps.
 
 ## Projects
 
