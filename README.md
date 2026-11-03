@@ -8,6 +8,7 @@ I build mobile and web apps.
 - **Chickly** — Cross-platform outfit sharing app built with React Native and Supabase, live on the [App Store](https://apps.apple.com/us/app/chickly/id6757763712)
 - **Anitabulate** — Anime tracker web app built with React and TypeScript, live at [anitabulate.vercel.app](https://anitabulate.vercel.app)
 
+(Links no longer work as my Apple Dev account subscription needs renewal but I am too broke for that. 
 ## Tech
 
 Java, JavaScript, TypeScript, Python, Swift, React, React Native, SwiftUI, Supabase, SQL
